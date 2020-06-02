@@ -7,8 +7,8 @@ namespace heads_or_tails
         static void Main(string[] args)
         {
             Console.WriteLine("Привет! Это игра проверяет твою удачу!\n");
-            Console.WriteLine("Компьютер подбросил монетку и ты должен угадать 'орел' это или 'решка'");
-            Console.WriteLine("\nНажми '1' если это Орел.");
+            Console.WriteLine("Компьютер подбросил монетку и ты должен угадать 'орел' это или 'решка'\n");
+            Console.WriteLine("Нажми '1' если это Орел.");
             Console.WriteLine("Нажми '2' если это Решка.\n");
             Console.WriteLine("Для выхода из программы нажмите 's'");
 
